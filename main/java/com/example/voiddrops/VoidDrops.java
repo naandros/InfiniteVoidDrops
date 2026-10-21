@@ -1,4 +1,4 @@
-package com.example.voiddrops;
+package com.naandros.voiddrops;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
