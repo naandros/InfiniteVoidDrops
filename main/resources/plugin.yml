@@ -1,0 +1,5 @@
+name: InfiniteVoidDrops
+version: ${project.version}
+main: com.example.voiddrops.VoidDrops
+api-version: "1.19"
+description: Returns items that fall into the void to the player who dropped them

@@ -1,0 +1,18 @@
+# Items at or below this Y level count as fallen into the void
+void-y: -10
+
+# How often to check, in ticks (20 ticks = 1 second)
+check-interval: 10
+
+# Items with no known thrower (e.g. mob drops, broken blocks):
+# true = delete them, false = leave them alone
+remove-unowned: false
+
+# Only return items if the player is online
+require-online: true
+
+message: "&eYour item fell into the void and was returned!"
+
+ignored-worlds:
+  - world_nether
+  - world_the_end
